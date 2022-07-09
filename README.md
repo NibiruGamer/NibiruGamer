@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**NibiruGamer/NibiruGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm NibiruGamer
 
-Here are some ideas to get you started:
+### 💻 &nbsp;About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &nbsp; I'm mainly programming in Java.
+- &nbsp; I'm specialize on modificated minecraft clients, bungee plugins and other java apps.
+- &nbsp; I'm actually also learning php.
+
+<br>
+
+<p  align="center">
+<img src="https://nibirugamer.dev/public_files/animated_line.gif"> 
+                  
+  <br>
+
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NibiruGamer&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NibiruGamer's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NibiruGamer&theme=dark&hide_border=true" />
+  
+
+<p  align="center">
+<img src="https://nibirugamer.dev/public_files/animated_line.gif"> 
+                  
+  <br>
